@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The school is open!
+=======
+#!/bin/bash
+echo "The school is open!"
+>>>>>>> new_branch_to_merge_later
